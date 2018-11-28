@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3501bd95-c7df-47e8-ac77-b665873e017d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ExerciseIdentityResolution$IR_using_machine_learning_games.ic" NAME="IR_using_machine_learning_games Coverage Results" MODIFIED="1542190248622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1815742262">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="csv" value="5" />
+          <entry key="java" value="32" />
+          <entry key="py" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="32" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="646" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="646" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-775087042">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="7" />
+          <entry key="java" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="7" />
+          <entry key="JAVA" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="110" />
+          <entry key="java" value="443" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="443" />
+          <entry key="PLAIN_TEXT" value="110" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="996325877">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="290" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="290" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_dogfood.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="129" column="57" lean-forward="true" selection-start-line="52" selection-end-line="129" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/MatchingGoldStandard.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#1273#1274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/processing/ProcessableCollection.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/DogfoodBlockingKeyByNameGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/DogfoodXMLReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorJaroWinklerTfIdf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Dogfood.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blok</find>
+      <find>0:00:06.317</find>
+      <find>seed</find>
+      <find>179,898</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/GameBlockingKeyByPlatformNameGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/GameXMLReader.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_VG_DEV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_IGDB_VG.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/DeveloperXMLReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/ErrorAnalysis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorDamerau.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperComparatorJaroWinklerTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/DeveloperBlockingKeyByNameGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/DogfoodXMLReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_IGDB_DEV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorJaroWinklerTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorLevenshtein.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorJaroWinkler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorJaccard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorEqual.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperComparatorSoftTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperComparatorMongeElkanTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperComparatorMongeElkan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/DogfoodBlockingKeyByNameGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Dogfood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_dogfood.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="510" />
+    <option name="y" value="180" />
+    <option name="width" value="1285" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Blocking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Comparators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Dogfood" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543434295600" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Winter_IR_Laptop" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\d058073\Desktop\TEAM PROJECT\0. Phase 2\Winter_IR_Laptop_Dogfood\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking" />
+      <recent name="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution" />
+      <recent name="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\Blocking" />
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\Comparators" />
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\model" />
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\data\goldstandard" />
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\data\input" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.IR_using_machine_learning_games">
+    <configuration name="IR_using_machine_learning_dogfood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.IR_using_machine_learning_dogfood" />
+      <module name="ExerciseIdentityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IR_using_machine_learning_games" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.IR_using_machine_learning_games" />
+      <module name="ExerciseIdentityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IR_using_machine_learning_games_IGDB_VG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.IR_using_machine_learning_games_IGDB_VG" />
+      <module name="ExerciseIdentityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IR_using_machine_learning_games_VG_DEV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.IR_using_machine_learning_games_VG_DEV" />
+      <module name="ExerciseIdentityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IR_using_machine_learning_games" />
+      <item itemvalue="Application.IR_using_machine_learning_dogfood" />
+      <item itemvalue="Application.IR_using_machine_learning_games_IGDB_VG" />
+      <item itemvalue="Application.IR_using_machine_learning_games_VG_DEV" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IR_using_machine_learning_dogfood" />
+        <item itemvalue="Application.IR_using_machine_learning_games_IGDB_VG" />
+        <item itemvalue="Application.IR_using_machine_learning_games_VG_DEV" />
+        <item itemvalue="Application.IR_using_machine_learning_games" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3501bd95-c7df-47e8-ac77-b665873e017d" name="Default Changelist" comment="" />
+      <created>1541539458308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541539458308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39007092" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32765958" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodNameComparatorEqual.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/Performance.class</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_dogfood.java</url>
+          <line>184</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python/test_gs_mc_vg.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/test_gs_igdb_vg.csv" />
+    <entry file="file://$PROJECT_DIR$/data/goldstandard/train_gs_dev_igdb_dev.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/GS_stratified_split.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/GameDateComparator2Years.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/GameDateComparator1Years.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/GameNameComparatorLevenshtein.java" />
+    <entry file="file://$PROJECT_DIR$/data/output/igdb_dev_2_dev_correspondences.csv" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/GameBlockingKeyByPlatformNameGenerator.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/algorithms/RuleLearner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/goldstandard/test_igdb_dev_standard.csv" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_IGDB_VG.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/GameXMLReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_VG_DEV.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_linear_combination.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_linear_combination_games.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Game.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/ErrorAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="40" column="133" selection-start-line="40" selection-start-column="133" selection-end-line="40" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorDamerau.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DamerauSimilarity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodNameComparatorLevenshtein.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodNameComparatorJaroWinkler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/Performance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/Pair.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1287">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorMongeElkan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorMongeElkanTfIdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="21" column="75" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorSoftTfIdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodNameComparatorEqual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodNameComparatorJaccard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/blockers/generators/StaticBlockingKeyGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/blockers/NoBlocker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/MatchingGoldStandard.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#1273#1274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/processing/ProcessableCollection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/DogfoodBlockingKeyByNameGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Dogfood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/DogfoodXMLReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorJaroWinklerTfIdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_dogfood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="129" column="57" lean-forward="true" selection-start-line="52" selection-end-line="129" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
