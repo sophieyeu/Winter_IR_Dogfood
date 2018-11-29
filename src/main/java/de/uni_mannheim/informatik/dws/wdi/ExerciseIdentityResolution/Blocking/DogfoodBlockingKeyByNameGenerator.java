@@ -12,15 +12,20 @@ import de.uni_mannheim.informatik.dws.winter.processing.Processable;
 public class DogfoodBlockingKeyByNameGenerator extends
         RecordBlockingKeyGenerator<Dogfood, Attribute> {
     private static final long serialVersionUID = 1L;
-
+    //TODO try the blocking
     @Override
     public void generateBlockingKeys(Dogfood record, Processable<Correspondence<Attribute, Matchable>> correspondences,
                                      DataIterator<Pair<String, Dogfood>> resultCollector) {
 
-        String blockingKeyValue = record.getProductid();
+            String[] tokens  = record.getProductname().split(" ");
 
-//        String blockingKeyValue = devName.substring(0, Math.min(2, devName.length())).toUpperCase();
+            String blockingKeyValue = "";
 
-        resultCollector.next(new Pair<>(blockingKeyValue, record));
+            for(int i = 0; i <= 2 && i < tokens.length; i++) {
+                blockingKeyValue += tokens[i].substring(0, Math.min(2,tokens[i].length())).toUpperCase();
+            }
+
+            resultCollector.next(new Pair<>(blockingKeyValue, record));
+
     }
 }
