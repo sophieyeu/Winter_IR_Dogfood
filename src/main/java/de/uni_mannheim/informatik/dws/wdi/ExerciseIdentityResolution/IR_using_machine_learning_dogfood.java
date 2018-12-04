@@ -20,7 +20,7 @@ import de.uni_mannheim.informatik.dws.winter.processing.Processable;
 import de.uni_mannheim.informatik.dws.winter.utils.WinterLogManager;
 import org.apache.logging.log4j.Logger;
 import weka.classifiers.trees.REPTree;
-
+import com.github.jfasttext.JFastText;
 import java.io.File;
 
 public class IR_using_machine_learning_dogfood {
@@ -75,7 +75,7 @@ public class IR_using_machine_learning_dogfood {
 		// ======================    Unsupervised IR methods
 //
 //		// --  TF-IDF cosine ==== > NEED CODE FOR THIS
-////        String options[] = new String[1];
+////        String swvoptions[] = {"-W 2000", "-I", "-L", "-M 1"};
 ////        options[0] = "-K";
 ////        String modelType = "TF-IDF cosine"; // use a TF-IDF cosine similarity
 //
@@ -193,5 +193,15 @@ public class IR_using_machine_learning_dogfood {
 				"Recall: %.4f", perfTest.getRecall()));
 		System.out.println(String.format(
 				"F1: %.4f", perfTest.getF1()));
+
+		System.out.println("Embeddings started");
+		JFastText jft = new JFastText();
+		jft.runCmd(new String[] {
+				"skipgram",
+				"-input", "data/goldstandard/test_dogfood_final_300.csv",
+				"-output", "data/output/dogfood_embeddings.csv",
+				"-bucket", "100",
+				"-minCount", "1"
+		});
     }
 }
