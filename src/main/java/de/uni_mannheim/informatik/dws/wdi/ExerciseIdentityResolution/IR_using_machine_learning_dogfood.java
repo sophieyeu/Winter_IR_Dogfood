@@ -19,30 +19,36 @@ import de.uni_mannheim.informatik.dws.winter.model.io.CSVCorrespondenceFormatter
 import de.uni_mannheim.informatik.dws.winter.processing.Processable;
 import de.uni_mannheim.informatik.dws.winter.utils.WinterLogManager;
 import org.apache.logging.log4j.Logger;
+import weka.classifiers.Evaluation;
+import weka.classifiers.functions.MultilayerPerceptron;
 import weka.classifiers.trees.REPTree;
 import com.github.jfasttext.JFastText;
+import weka.core.Instances;
+import weka.core.Utils;
+
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 
 public class IR_using_machine_learning_dogfood {
 
-	/*
-	 * Logging Options:
-	 * 		default: 	level INFO	- console
-	 * 		trace:		level TRACE     - console
-	 * 		infoFile:	level INFO	- console/file
-	 * 		traceFile:	level TRACE	- console/file
-	 *
-	 * To set the log level to trace and write the log to winter.log and console,
-	 * activate the "traceFile" logger as follows:
-	 *     private static final Logger logger = WinterLogManager.activateLogger("traceFile");
-	 *
-	 */
+    /*
+     * Logging Options:
+     * 		default: 	level INFO	- console
+     * 		trace:		level TRACE     - console
+     * 		infoFile:	level INFO	- console/file
+     * 		traceFile:	level TRACE	- console/file
+     *
+     * To set the log level to trace and write the log to winter.log and console,
+     * activate the "traceFile" logger as follows:
+     *     private static final Logger logger = WinterLogManager.activateLogger("traceFile");
+     *
+     */
 
-	private static final Logger logger = WinterLogManager.activateLogger("trace");
+    private static final Logger logger = WinterLogManager.activateLogger("trace");
 
-    public static void main( String[] args ) throws Exception
-    {
-		// loading data
+    public static void main(String[] args) throws Exception {
+        // loading data
 
 
 //		// dogfood
@@ -203,5 +209,66 @@ public class IR_using_machine_learning_dogfood {
 				"-bucket", "100",
 				"-minCount", "1"
 		});
+
+        //Deep learning neural network
+        //network variables
+        String backPropOptions =
+                "-L " + 0.1 //learning rate
+                        + " -M " + 0 //momentum
+                        + " -N " + 10000 //epoch
+                        + " -V " + 0 //validation
+                        + " -S " + 0 //seed
+                        + " -E " + 0 //error
+                        + " -H " + "3";
+        // hidden nodes. //e.g. use "3,3" for 2 level hidden layer with 3 nodes
+
+        try {
+            //prepare historical data
+            String historicalDataPath = "C:\\Users\\User\\workspace\\Winter_IR_Dogfood\\data\\input\\train_dogfood_final_300.arff";
+            BufferedReader reader
+                    = new BufferedReader(new FileReader(historicalDataPath));
+            Instances trainingset = new Instances(reader);
+            reader.close();
+
+            trainingset.setClassIndex(trainingset.numAttributes() - 1);
+            //final attribute in a line stands for output
+
+            //network training
+            MultilayerPerceptron mlp = new MultilayerPerceptron();
+            mlp.setOptions(Utils.splitOptions(backPropOptions));
+            mlp.buildClassifier(trainingset);
+            System.out.println("final weights:");
+            System.out.println(mlp);
+
+            //display actual and forecast values
+            System.out.println("\nactual\tprediction");
+            for (int i = 0; i <= trainingset.numInstances(); i++) {
+
+                double actual = trainingset.instance(i).classValue();
+                double prediction =
+                        mlp.distributionForInstance(trainingset.instance(i))[0];
+
+                System.out.println(actual+"\t"+prediction);
+
+            }
+
+            //success metrics
+            System.out.println( "\nSuccess Metrics: ");
+            Evaluation eval = new Evaluation(trainingset);
+            eval.evaluateModel(mlp, trainingset);
+
+            //display metrics
+            System.out.println("Correlation: "+eval.correlationCoefficient());
+            System.out.println("MAE: "+eval.meanAbsoluteError());
+            System.out.println("RMSE: "+eval.rootMeanSquaredError());
+            System.out.println("RAE: "+eval.relativeAbsoluteError()+"%");
+            System.out.println("RRSE: "+eval.rootRelativeSquaredError()+"%");
+            System.out.println("Instances: "+eval.numInstances());
+
+        } catch (Exception ex) {
+
+            System.out.println(ex);
+
+        }
     }
 }
