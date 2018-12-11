@@ -239,7 +239,7 @@ public class IR_using_machine_learning_dogfood {
 
         try {
             //prepare historical data
-            String historicalDataPath = "C:\\Users\\User\\workspace\\Winter_IR_Dogfood\\data\\input\\train_dogfood_final_300.arff";
+            String historicalDataPath = "C:\\Users\\User\\workspace\\Winter_IR_Dogfood\\data\\input\\GS_Dogfood_300_title.arff";
             BufferedReader reader
                     = new BufferedReader(new FileReader(historicalDataPath));
             Instances trainingset = new Instances(reader);
@@ -279,6 +279,8 @@ public class IR_using_machine_learning_dogfood {
 
             //display metrics
             //System.out.println("Correlation: " + eval.correlationCoefficient());
+            System.out.println("Recall: " + eval.weightedRecall());
+            System.out.println("Precision: " + eval.weightedPrecision());
             System.out.println("MAE: " + eval.meanAbsoluteError());
             System.out.println("RMSE: " + eval.rootMeanSquaredError());
             System.out.println("RAE: " + eval.relativeAbsoluteError() + "%");
@@ -317,7 +319,7 @@ public class IR_using_machine_learning_dogfood {
 
     public static void writeToFile(byte[] binaryNetwork, String dumpLocation) throws Exception {
 
-        FileOutputStream stream = new FileOutputStream(dumpLocation + "trained_network.txt");
+        FileOutputStream stream = new FileOutputStream(dumpLocation + "trained_network2.txt");
         stream.write(binaryNetwork);
         stream.close();
 
