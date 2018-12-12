@@ -239,7 +239,7 @@ public class IR_using_machine_learning_dogfood {
 
         try {
             //prepare historical data
-            String historicalDataPath = "C:\\Users\\User\\workspace\\Winter_IR_Dogfood\\data\\input\\GS_Dogfood_300_title.arff";
+            String historicalDataPath = "C:\\Users\\User\\workspace\\Winter_IR_Dogfood\\data\\input\\GS_Dogfood_300_final.arff";
             BufferedReader reader
                     = new BufferedReader(new FileReader(historicalDataPath));
             Instances trainingset = new Instances(reader);
